@@ -1,6 +1,6 @@
 def my_square(x):
     """
-    Comments
+    Comments added
     """
     return (x ** 2)
 
